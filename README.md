@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Dominic
 
 
-# ABOUT ME
+# ABOUT ME😎
 Developer in **continuous training**, focused on **Cybersecurity, Computer Networks, and Software Development**.
 Currently strengthening my foundations in system security, network analysis, and backend development,
 with a strong interest in understanding, securing, and testing real-world systems.
@@ -34,10 +34,10 @@ with a strong interest in understanding, securing, and testing real-world system
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
 
-- 🔭 I’m currently working on personal projects related to cybersecurity, networking, and automation
-- 🌱 I’m currently learning cybersecurity fundamentals, network protocols, and traffic analysis
-- 👯 I’m looking to collaborate on security tools, automation scripts, or backend projects
-- 🤔 I’m looking for help with improving my skills in real-world security testing and network monitoring
-- 💬 Ask me about programming, networks, cybersecurity basics, or Linux
-- 📫 How to reach me: GitHub messages
-- ⚡ Fun fact: I enjoy understanding how systems break just as much as how they work
+- I’m currently working on personal projects related to cybersecurity, networking, and automation
+-  I’m currently learning cybersecurity fundamentals, network protocols, and traffic analysis
+-  I’m looking to collaborate on security tools, automation scripts, or backend projects
+-  I’m looking for help with improving my skills in real-world security testing and network monitoring
+-  Ask me about programming, networks, cybersecurity basics, or Linux
+-  How to reach me: GitHub messages
+-  Fun fact: I enjoy understanding how systems break just as much as how they work
