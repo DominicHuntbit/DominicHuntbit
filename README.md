@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Dominic
 
 
-# **ABOUT ME ** 😎
+# **ABOUT ME** 😎
 Developer in **continuous training**, focused on **Cybersecurity, Computer Networks, and Software Development**.
 Currently strengthening my foundations in system security, network analysis, and backend development,
 with a strong interest in understanding, securing, and testing real-world systems.
