@@ -1,5 +1,9 @@
 # 👋 Hey, I'm Dominic
 
+<p align="center">
+  <img src="https://github.com/DominicHuntbit/DominicHuntbit/blob/output/github-contribution-grid-snake-dark.png" />
+</p>
+
 
 # **ABOUT ME** 😎
 Developer in **continuous training**, focused on **Cybersecurity, Computer Networks, and Software Development**.
