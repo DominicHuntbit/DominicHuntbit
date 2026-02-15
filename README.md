@@ -1,9 +1,7 @@
 # 👋 Hey, I'm Dominic
 
-<p align="center">
-  <img src="https://github.com/DominicHuntbit/DominicHuntbit/blob/output/github-contribution-grid-snake-dark.png" />
-</p>
-
+![Snake animation dark](https://github.com/DominicHuntbit/DominicHuntbit/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation light](https://github.com/DominicHuntbit/DominicHuntbit/blob/output/github-contribution-grid-snake.svg)
 
 
 
