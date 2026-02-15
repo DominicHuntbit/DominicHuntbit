@@ -36,8 +36,8 @@ with a strong interest in understanding, securing, and testing real-world system
 ![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
 
-## GIT STATS
-<p align="center">
+## GitHub Stats
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=DominicHuntbit&theme=dark&hide_border=true&ring=1E90FF&fire=00BFFF&currStreakLabel=1E90FF&sideLabels=1E90FF&dates=7FDBFF" />
 </p>
 
