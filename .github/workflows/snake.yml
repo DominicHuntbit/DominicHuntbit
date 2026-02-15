@@ -17,8 +17,7 @@ jobs:
           github_user_name: DominicHuntbit
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=1E90FF&color_dots=0B1C2D,102A43,1E90FF,38BDF8
-
+            dist/github-contribution-grid-snake-dark.svg
 
       - name: Push snake
         uses: crazy-max/ghaction-github-pages@v3
