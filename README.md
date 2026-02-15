@@ -5,6 +5,8 @@
 </p>
 
 
+
+
 # **ABOUT ME** 😎
 Developer in **continuous training**, focused on **Cybersecurity, Computer Networks, and Software Development**.
 Currently strengthening my foundations in system security, network analysis, and backend development,
