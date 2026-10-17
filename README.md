@@ -1,57 +1,70 @@
-# 👋 Hey, I'm Dominic
+# Dominic Higuita
 
-![Snake animation dark](https://github.com/DominicHuntbit/DominicHuntbit/blob/output/github-contribution-grid-snake-dark.svg)
+**DevOps | Platform Engineering | Cloud Infrastructure | DevSecOps**
 
+![GitHub contribution snake](https://github.com/DominicHuntbit/DominicHuntbit/blob/output/github-contribution-grid-snake-dark.svg)
 
+## About Me
 
-# **ABOUT ME** 😎
-DevOps in **continuous training**, focused on **Cybersecurity, Computer Networks, and Software Development**.
-Currently strengthening my foundations in system security, network analysis, and backend development,
-with a strong interest in understanding, securing, and testing real-world systems.
+DevOps & Platform Engineering practitioner focused on resilient cloud infrastructure, automated delivery pipelines, and developer platforms. Interested in Infrastructure as Code (IaC), cloud-native environments, and embedding security practices across the software development lifecycle.
+
+- ☁️ Designing and supporting cloud environments on **AWS** and **Azure**.
+- 🛠️ Working with Infrastructure as Code using **Terraform** and **Terragrunt**.
+- 🚀 Improving developer experience with **Backstage** and **CI/CD automation**.
+- 🛡️ Exploring DevSecOps, configuration management with **Ansible**, and infrastructure auditing.
 
 ---
-##  🛠️  **Tech Stack**
-### Programming & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=yellow)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B2D5C?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
+## Technical Stack
 
-### Databases
-![SQL](https://img.shields.io/badge/SQL-003545?style=for-the-badge&logo=databricks&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0B2D5C?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E3A5F?style=for-the-badge&logo=postgresql&logoColor=white)
+### Cloud & Platforms
 
+[![AWS and Azure](https://skillicons.dev/icons?i=aws,azure&theme=dark)](https://skillicons.dev)
 
-### Systems & Networks
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Networking](https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-1E1E1E?style=for-the-badge)
+### Infrastructure as Code & Automation
 
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-0F172A?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED)
-
-## GitHub Stats
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=DominicHuntbit&theme=dark&hide_border=true&ring=1E90FF&fire=00BFFF&currStreakLabel=1E90FF&sideLabels=1E90FF&dates=7FDBFF" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=terraform,ansible,kubernetes,docker&theme=dark" alt="Terraform, Ansible, Kubernetes and Docker" />
+  </a>
 </p>
 
+### CI/CD & Developer Platforms
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,gitlab,githubactions,git&theme=dark" alt="GitHub, GitLab, GitHub Actions and Git" />
+  </a>
+</p>
 
+### Automation & Scripting
 
+[![Python, TypeScript and Bash](https://skillicons.dev/icons?i=python,ts,bash&theme=dark)](https://skillicons.dev)
 
-- I’m currently working on personal projects related to cybersecurity, networking, and automation
--  I’m currently learning cybersecurity fundamentals, network protocols, and traffic analysis
--  I’m looking to collaborate on security tools, automation scripts, or backend projects
--  I’m looking for help with improving my skills in real-world security testing and network monitoring
--  Ask me about programming, networks, cybersecurity basics, or Linux
--  How to reach me: GitHub messages
--  Fun fact: I enjoy understanding how systems break just as much as how they work
+### Databases & Managed Data
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL and MySQL" />
+  </a>
+</p>
+
+### Networking, Systems & Security
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,redhat,kali&theme=dark" alt="Linux, Red Hat and Kali Linux" />
+  </a>
+</p>
+
+---
+
+## GitHub Activity
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=DominicHuntbit&theme=dark&hide_border=true&ring=1E90FF&fire=00BFFF&currStreakLabel=1E90FF&sideLabels=1E90FF&dates=7FDBFF" alt="GitHub contribution streak" />
+</p>
+
+---
+
+*Building resilient architectures, automating complex workflows, and improving cloud infrastructure.*
