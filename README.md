@@ -1,4 +1,4 @@
-# Dominic Higuita
+# Dominic
 
 **DevOps | Platform Engineering | Cloud Infrastructure | DevSecOps**
 
